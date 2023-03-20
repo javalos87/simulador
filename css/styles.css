@@ -1,0 +1,11 @@
+main {
+  background-color: coral;
+  height: 100vh;
+}
+a {
+  text-decoration: none;
+}
+footer {
+  background-color: black;
+  color: white;
+}
